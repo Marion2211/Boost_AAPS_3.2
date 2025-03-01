@@ -15,9 +15,9 @@ DEV:
 
 
 
-***Boost 4.1.5 based on AAPS Master 3.2.0.1***
+***Boost 4.1.5 based on AAPS Master 3.2.0.4***
 
-Boost has been updated to the 3.2.0.1 codebase. This means that it requires Nightscout 15 and updates your database. Once you have enabled NS15 and elected to use the NSClient V3 to interact with it, you can do a full synchronisation with the server (go to NSV3 tab, select the three dots to the top right and choose "Full Synchronisation"), which will pull enough data into app to run DynamiISF.
+Boost has been updated to the 3.2.0.4 codebase. This means that it required Nightscout 15 and updates your database. Once you have enabled NS15 and elected to use the NSClient V3 to interact with it, you can do a full synchronisation with the server (go to NSV3 tab, select the three dots to the top right and choose "Full Synchronisation"), which will pull enough data into app to run DynamiISF.
 
 Additionally, we have made a number of modifications. Please read the Start and End time section, as this may require a change to stop Boost crashing. 
 
